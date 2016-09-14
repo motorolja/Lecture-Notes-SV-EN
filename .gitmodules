@@ -1,0 +1,6 @@
+[submodule "tddd20"]
+	path = tddd20
+	url = https://github.com/motorolja/tddd20
+[submodule "tsit03"]
+	path = tsit03
+	url = git@github.com:motorolja/tsit03.git
